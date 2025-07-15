@@ -5,7 +5,7 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
-  base: '/dolmen-build-remodel-web/',
+  base: '/dolmen-website-redo/',
   server: {
     host: "::",
     port: 8080,
