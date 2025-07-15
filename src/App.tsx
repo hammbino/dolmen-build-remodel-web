@@ -20,7 +20,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/dolmen-build-remodel-web">
         <div className="min-h-screen flex flex-col">
           <Header />
           <main className="flex-1">
